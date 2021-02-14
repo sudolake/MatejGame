@@ -1,1 +1,1 @@
-# MatejGame
+# this is a simon game.
