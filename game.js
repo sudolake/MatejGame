@@ -1,4 +1,4 @@
-
+$(document).ready(function(){
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = []; 
@@ -115,3 +115,6 @@ function startover(){
   gamePattern = []
   started = false;
 }
+
+
+})
